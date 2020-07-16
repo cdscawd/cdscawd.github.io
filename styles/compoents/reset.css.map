@@ -1,0 +1,1 @@
+{"version":3,"sources":["reset.css"],"names":[],"mappings":"AAAA,UACE,gBAAiB,AACjB,oBAAuB,CAAE,AAE3B,QACE,cAAgB,CAAE","file":"reset.css","sourcesContent":["html, body {\n  line-height: 1.7;\n  letter-spacing: 0.78px; }\n\nsection {\n  padding: 40px 0; }\n"]}
